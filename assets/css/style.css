@@ -27,6 +27,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.img-fluid-dp{
+    max-width: 84% !important;
+    height: auto;
+    margin-left: 35px !important;
+    border-radius: 35px !important;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/

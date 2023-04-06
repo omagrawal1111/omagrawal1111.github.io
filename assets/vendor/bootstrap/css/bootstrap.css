@@ -562,9 +562,13 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
-  height: auto;
+  max-width: 65% !important;
+    height: auto;
+    margin-left: 41px !important;
+    border-radius: 35px !important;
 }
+
+
 
 .img-thumbnail {
   padding: 0.25rem;
